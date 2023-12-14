@@ -55,7 +55,7 @@ const Footer = () => {
 
         <div className=" mt-4 md:mt-0">
           <Link to="/" className=" font-semibold text-2xl p-1 cursor-pointer">
-            eStudy
+            vanadI
           </Link>
         </div>
       </div>
